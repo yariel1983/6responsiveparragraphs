@@ -1,0 +1,13 @@
+@media only screen and (min-width:600px) {
+  .hide-on-desktop, * [aria-labelledby='hide-on-desktop'] {
+    display: none;
+    max-height: 0;
+    overflow: hidden;
+    background-color: white !important;
+    border: white !important;
+  }
+}
+
+.row{
+font-size: 12px;
+}
